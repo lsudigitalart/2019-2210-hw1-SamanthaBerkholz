@@ -38,6 +38,11 @@ function setup() {
 
     ellipse(350, 400, 45, 45);
 
+    strokeWeight(0);
+    stroke(255);
+    ellipse(350, 350, 20, 20);
+
+
 }
 
 function draw() {
